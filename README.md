@@ -11,6 +11,7 @@ It can give you some insight on the various chunk-types and the differences betw
 However I started rewriting this project as a Python extension for Blender a while ago.
 This might be a better starting point, if you want to continue development for this project.
 I have not had any motivation to continue with this, but if anyone picks this up I will try to contribute.
+
 https://github.com/Morten1337/io_thps_scene/blob/zaxis-importer/_zaxis_notes.txt
 https://github.com/Morten1337/io_thps_scene/blob/zaxis-importer/import_zaxis.py
 
@@ -23,7 +24,7 @@ ____
 
 ____
 
-### Images
+### Notes
 
 * The way mesh instancing and transforms are handled in this code is pretty bad.
 * There are some know errors with reading the materials and/or texture passes.
@@ -34,7 +35,7 @@ ____
 
 ____
 
-### Notes
+### Images
 
 ![alt text](https://github.com/Morten1337/ZAxisLevelTool/raw/master/Images/IMG_24042016_013014.png "screenshot01")
 ![alt text](https://github.com/Morten1337/ZAxisLevelTool/raw/master/Images/IMG_24042016_013015.png "screenshot02")
